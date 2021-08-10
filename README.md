@@ -6,6 +6,10 @@
 ### 
 
 # 구성
-## 프론트엔드 
+## 프론트엔드
+
+react.js, redux, redux-saga
+
 ## 벡엔드
 
+node.js, mongodb, koa framework
